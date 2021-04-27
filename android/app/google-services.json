@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607175484431",
+    "project_id": "chatapp-4b215",
+    "storage_bucket": "chatapp-4b215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607175484431:android:59c34743031608c0fc6f7a",
+        "android_client_info": {
+          "package_name": "com.shatanshu.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607175484431-skioovorhmusc7oolj195qnli8sta7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjpQo3QAoXrGmRGa51FivNu6JXo65igoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607175484431-skioovorhmusc7oolj195qnli8sta7ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
